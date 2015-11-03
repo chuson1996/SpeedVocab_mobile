@@ -20,29 +20,37 @@
 
     <!-- your app's js -->
     <script src="js/app.js"></script>
+    <script src="js/wordlist.controller.js"></script>
   </head>
     <body ng-app="starter">
 
-        <ion-pane>
-            <ion-nav-bar class="bar-positive">
-                <ion-nav-back-button>
-                </ion-nav-back-button>
-                
-            </ion-nav-bar>
+        <ion-side-menus>
+            <ion-side-menu side="left">
 
-            <ion-tabs class="tabs-positive">
-                <ion-tab title="Book" href="#/book">
-                    <ion-nav-view name="book"></ion-nav-view>
-                </ion-tab>
-                <ion-tab title="About" ui-sref="about">
-                    <ion-nav-view name="about"></ion-nav-view>
-                </ion-tab>
-                <ion-tab title="Contact"></ion-tab>
-            </ion-tabs>
-            <!-- <ion-nav-view></ion-nav-view> -->
-        
-            
-        </ion-pane>
+            </ion-side-menu>
+            <ion-side-menu-content>
+                <ion-pane>
+                    <ion-nav-bar class="bar-positive">
+                        <ion-nav-back-button>
+                        </ion-nav-back-button>
+                        
+                    </ion-nav-bar>
+
+                    <ion-tabs class="tabs-positive">
+                        <ion-tab title="Book" href="#/wordlist">
+                            <ion-nav-view name="wordlist"></ion-nav-view>
+                        </ion-tab>
+                        <ion-tab title="About" ui-sref="about">
+                            <ion-nav-view name="about"></ion-nav-view>
+                        </ion-tab>
+                        <ion-tab title="Contact"></ion-tab>
+                    </ion-tabs>
+                    <!-- <ion-nav-view></ion-nav-view> -->
+                
+                    
+                </ion-pane>
+            </ion-side-menu-content>
+        </ion-side-menus>
   </body>
 </html>
 

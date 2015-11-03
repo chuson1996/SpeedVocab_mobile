@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"template",
+				"templates"
+			],
+			[
+				"ioni",
+				"ionicModule	ionicModule"
+			],
+			[
+				"ionic",
+				"ionicConfig	ionicConfig"
+			],
+			[
+				"param",
+				"paramFile"
+			],
+			[
+				"email",
+				"emailInput"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"current",
+				"currentReportType"
+			],
+			[
+				"repor",
+				"reportType"
+			],
+			[
+				"report",
+				"reportTypeProvider"
+			],
+			[
+				"repo",
+				"reportTypeProvider"
+			],
+			[
+				"throug",
+				"through2"
+			],
+			[
+				"throgu",
+				"through"
+			],
+			[
+				"disa",
+				"disallowOverscroll"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: io",
+				"Snippet: ionicIndex"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"keybindings default",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab_mobile"
+	],
+	"file_history":
+	[
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/templates/tab-chats.html",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/index.html",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/ionicModule.sublime-snippet",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/ionicConfig.sublime-snippet",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/ionicIndex.sublime-snippet",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/ionicIndexHtml.sublime-snippet",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/ionicIndex.html.snippet-html",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/js/controllers.js",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/templates/chat-detail.html",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/js/app.js",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/templates/tab-dash.html",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/scss/ionic.app.scss",
+		"/C/Users/chu.son/Documents/mobile-app/SpeedVocab/www/js/services.js",
+		"/C/Users/chu.son/Documents/node-express/template-producer/main.js",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/node_modules/append-file/bin/append.js",
+		"/C/Users/chu.son/Documents/OfferTile/append.js",
+		"/C/Users/chu.son/Documents/OfferTile/public/style.css",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/fi/index (2).html",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/fi/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/en/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/controller.js",
+		"/C/Users/chu.son/Documents/OfferTile/public/lumia-offers/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/lumia-offers/en/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/thank-you/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/thank-you/en/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/en/claim-now-en.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/thank-you/fin/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/lumia-offers/fin/lumia-offers-fi.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/fin/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/lumia-offers/fin/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/fin/eb235ead-f8a1-4bee-95e7-3b41e00e540b.html",
+		"/C/Users/chu.son/Documents/OfferTile/Gruntfile.js",
+		"/C/Users/chu.son/Documents/OfferTile/public/lumia-offers/ContainerPage_en.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/subtemplate-red.html",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/Report.html",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/config.js",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/header.html",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/Controllers/HeaderController.js",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/Controllers/LumiaOffersController.js",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/Controllers/ReportController.js",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/Controllers/MunchkinController.js",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/home.html",
+		"/C/Users/chu.son/Documents/LumiaOffersReport/LumiaOffersReportService/PublicWebRole/angularApp/application.js",
+		"/C/Users/chu.son/Documents/OfferTile/public/claim-now/fin/claim-now-finnish.html",
+		"/C/Users/chu.son/Documents/OfferTile/public/joakim/index.html",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/cslg.sublime-snippet",
+		"/C/Users/chu.son/Documents/OfferTile/public/thank-you/program.js",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/gruntTemp.sublime-snippet",
+		"/C/Users/chu.son/Documents/OfferTile/server.js",
+		"/C/Users/chu.son/Documents/OfferTile/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/controller.js",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/func.sublime-snippet",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/chu.son/Documents/OfferTile/text.css",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-red.html",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-green/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-blue/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-black/index.html",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-green.html",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-blue.html",
+		"/C/Users/chu.son/Documents/OfferTile/subtemplate-black.html",
+		"/C/Users/chu.son/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\chu.son\\Documents\\LumiaOffersReport\\LumiaOffersReportService\\PublicWebRole"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"process.argv[3]",
+			"ng",
+			">\n",
+			"ng-",
+			"emailDom",
+			"ng-",
+			"vpaddingTop",
+			"img",
+			"td",
+			"vpaddingTop",
+			"hpadding",
+			"currentReportType",
+			"CurrentReportType",
+			"currentReportType",
+			"LumiaOffersReport",
+			"h3",
+			"h2",
+			"td",
+			"p",
+			"<td class=\"logo\" s",
+			"<td class=\"logo\" ",
+			"img",
+			"logo",
+			"div",
+			"td",
+			"clear",
+			"hpadding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "SpeedVocab_mobile.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
